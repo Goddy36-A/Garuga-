@@ -1,4 +1,3 @@
-
 # Tribute to Dr. James Musinguzi Garuga
 
 This is a digital tribute page created in memory of **Dr. James Musinguzi Garuga** (1953–2025), a visionary entrepreneur, philanthropist, and leader from Uganda.
@@ -9,31 +8,31 @@ This page is part of an ongoing effort to honor his legacy online.
 
 ## 🔗 View the Tribute Page
 
-> [Click here to view the tribute page](https://Goddy36-A.github.io/tribute-garuga/index.html)
+> 👉 [https://goddy36-a.github.io/tribute-garuga/](https://goddy36-a.github.io/tribute-garuga/)
 
 ## 📸 Features
 
-- Mobile-friendly, elegant tribute design
-- Highlights of Dr. Garuga's life and achievements
-- Quotes and memorable tributes
+- Mobile-friendly, elegant tribute design  
+- Highlights of Dr. Garuga's life and achievements  
+- Quotes and memorable tributes  
 - Ready to be expanded with:
-  - Guestbook
-  - Video/audio
-  - Memorial events and timelines
+  - Guestbook  
+  - Video/audio  
+  - Memorial timeline  
 
 ## 🎯 Purpose
 
 This page was built to:
-- Provide a lasting digital memory of Dr. Garuga’s life
-- Inspire others by sharing his words and work
+- Provide a lasting digital memory of Dr. Garuga’s life  
+- Inspire others by sharing his words and work  
 - Encourage contributions from the community (photos, messages, etc.)
 
 ## 🙌 Contributions
 
 You're welcome to:
-- Add stories or tributes
-- Share verified photos
-- Help style or translate the page
+- Add stories or tributes  
+- Share verified photos  
+- Help style or translate the page  
 
 Please open an [issue](https://github.com/Goddy36-A/tribute-garuga/issues) or make a pull request to contribute.
 
