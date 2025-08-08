@@ -9,7 +9,7 @@ This page is part of an ongoing effort to honor his legacy online.
 
 ## 🔗 View the Tribute Page
 
-> [Click here to view the tribute page](https://goddy36-a.github.io/tribute-garuga)
+> [Click here to view the tribute page](https://Goddy36-A.github.io/tribute-garuga/index.html)
 
 ## 📸 Features
 
